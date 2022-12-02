@@ -229,3 +229,4 @@ maxConnection 120 설정하고 maxThread 100 개로 설정해도 됨.
 그러나 최대 maxConnection 과 최대 maxThread 는 서비스마다
 jmeter 로 측정해 봐야 한다.
 서비스가 어떻게 블로킹 되게 구형되어 있는지 다 다르기 때문
+
